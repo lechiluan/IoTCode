@@ -15,7 +15,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
  
  
 const char* ssid = "CHI LUAN IT";
-const char* password = "lechiluan";
+const char* password = "luan@6601";
  
 WiFiUDP ntpUDP;
 
